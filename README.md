@@ -1,3 +1,5 @@
+You need a C compiler.
+
 Usage:
 ```shell
 make
